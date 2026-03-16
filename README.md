@@ -4,9 +4,9 @@ Python Developer | Backend | AI & Data Science
 
 Python developer experienced in backend development, automation, and data-driven solutions. Skilled in building REST APIs, working with databases, and developing scripts to automate business processes. Completed training in Artificial Intelligence and Data Science, with experience in data analysis and machine learning fundamentals. Focused on writing maintainable code and building efficient, scalable applications.
 
-Tech Stack
+🧰 Tech Stack
 
-🧰 Python | FastAPI | Pandas | NumPy | Scikit-learn | PostgreSQL | Docker | Git
+Python | FastAPI | Pandas | NumPy | Scikit-learn | PostgreSQL | Docker | Git
 
 💻Featured Projects
 - [Scraper avtoria](https://github.com/kilchinskiy/scraper_avtoria) - A Python application that scrapes car listings from AutoRIA and extracts key vehicle information including price, brand, model, mileage, and location. The scraper processes the data and saves it for further analysis, allowing users to monitor market prices and trends.
