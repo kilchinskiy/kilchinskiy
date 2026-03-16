@@ -13,8 +13,10 @@ Python | FastAPI | Pandas | NumPy | Scikit-learn | PostgreSQL | Docker | Git
 - [fashion_streamlit_app](https://github.com/kilchinskiy/fashion_streamlit_app) - A data-driven web application built with Streamlit that analyzes fashion datasets and provides interactive visualizations. The app allows users to explore fashion trends and gain insights using data analysis and machine learning techniques.
 
 🗣️ Languages
+
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 ![English](https://img.shields.io/badge/English-А2-blue?style=flat-square)
 
 📫 How to reach me:
+
 [LinkedIn](https://www.linkedin.com/in/kilchinskiy0101) | [Email](mailto:kilchinskiy0001@gmail.com)
