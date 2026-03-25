@@ -10,8 +10,8 @@ Python | FastAPI | Pandas | NumPy | Scikit-learn | PostgreSQL | Docker | Git
 
 💻Featured Projects
 - [Scraper avtoria](https://github.com/kilchinskiy/scraper_avtoria) - A Python application that scrapes car listings from AutoRIA and extracts key vehicle information including price, brand, model, mileage, and location. The scraper processes the data and saves it for further analysis, allowing users to monitor market prices and trends.
-- [fashion_streamlit_app](https://github.com/kilchinskiy/fashion_streamlit_app) - A data-driven web application built with Streamlit that analyzes fashion datasets and provides interactive visualizations. The app allows users to explore fashion trends and gain insights using data analysis and machine learning techniques.
-- [Expense_Analyzer](https://github.com/kilchinskiy/expense_analyzer) – A machine learning-powered web app that analyzes personal spending data. It automatically classifies transactions, generates insights, and visualizes financial trends using Streamlit.
+- [Fashion_streamlit_app](https://github.com/kilchinskiy/fashion_streamlit_app) - A data-driven web application built with Streamlit that analyzes fashion datasets and provides interactive visualizations. The app allows users to explore fashion trends and gain insights using data analysis and machine learning techniques.
+- [Expense_analyzer](https://github.com/kilchinskiy/expense-analyzer) – A machine learning-powered web app that analyzes personal spending data. It automatically classifies transactions, generates insights, and visualizes financial trends using Streamlit.
 
 🗣️ Languages
 
