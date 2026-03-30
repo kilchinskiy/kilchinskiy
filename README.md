@@ -5,6 +5,7 @@ Python Developer | Backend | AI & Data Science
 Python developer experienced in backend development, automation, and data-driven solutions. Skilled in building REST APIs, working with databases, and developing scripts to automate business processes. Completed training in Artificial Intelligence and Data Science, with experience in data analysis and machine learning fundamentals. Focused on writing maintainable code and building efficient, scalable applications.
 
 🧰 Tech Stack
+
 Backend: Python (FastAPI, Django REST), AsyncIO  
 Data Processing: Pandas, NumPy, Scikit-learn  
 Databases: PostgreSQL, SQLite  
